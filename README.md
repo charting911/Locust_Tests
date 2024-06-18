@@ -5,7 +5,8 @@
 `$ pip install -r requirements.txt`
 
 
-The base URL can be changed as per needs
+### Run tests
+#### The base URL can be changed as per needs
 example:  
 `$ locust -f my_locust_file.py -H http://localhost:8000`  
 
