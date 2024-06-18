@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+loucst_env/
+ENV/
+env.bak/
+env/
+
+.vscode/
+.idea/
+
+data_files/
